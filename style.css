@@ -539,6 +539,9 @@ h1 {
     form {
         padding: 5px;
     }
+    #bloc-1-hero {
+        max-height: 300px;
+    }
     .bg-banniere {
         background-image: url("img/la-chouette-agence-banniere-min.jpg");
     }
